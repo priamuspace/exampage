@@ -194,7 +194,7 @@ header .header_appeal .header_appeal_main .header_loupe {
   }
 }
 header .header_appeal .header_appeal_main .header_appeal_block {
-  background: url(/img/header/header_button.svg);
+  background: url(img/header/header_button.svg);
   width: 40px;
   height: 40px;
   display: flex;
