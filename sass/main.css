@@ -190,9 +190,7 @@ header .header_appeal .header_appeal_main .header_loupe {
 }
 @media (max-width: 390px) {
   header .header_appeal .header_appeal_main .header_loupe {
-    position: absolute;
-    top: 17px;
-    left: 15px;
+    display: none
   }
 }
 header .header_appeal .header_appeal_main .header_appeal_block {
