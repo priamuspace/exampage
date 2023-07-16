@@ -1212,7 +1212,7 @@ header .header_appeal .header_appeal_logo {
 .features .features_block .features_image {
   width: 437px;
   height: 546px;
-  background: no-repeat url("img/main/features/feafure.png");
+  background: no-repeat url(/img/main/features/feafure.png");
 }
 @media (max-width: 390px) {
   .features .features_block .features_image {
