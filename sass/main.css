@@ -186,7 +186,7 @@ header .header_appeal .header_appeal_main .header_loupe {
   }
 }
 header .header_appeal .header_appeal_main .header_appeal_block {
-  background: url(img/header/header_button.svg);
+  background: url(/img/header/header_button.svg);
   width: 40px;
   height: 40px;
   display: flex;
@@ -680,7 +680,7 @@ header .header_appeal .header_appeal_logo {
 .creditcard .creditcard_image {
   width: 425px;
   height: 425px;
-  background: no-repeat url(img/main/creditcard/creditcard.png);
+  background: no-repeat url(/img/main/creditcard/creditcard.png);
   margin: 64px 0px 0px 51px;
 }
 @media (max-width: 390px) {
@@ -723,7 +723,7 @@ header .header_appeal .header_appeal_logo {
 .inspire .inspire_image {
   width: 425px;
   height: 425px;
-  background: no-repeat url(img/main/inspire/inspire.png);
+  background: no-repeat url(/img/main/inspire/inspire.png);
   margin: 64px 0px 0px 100px;
 }
 @media (max-width: 390px) {
@@ -1401,7 +1401,7 @@ header .header_appeal .header_appeal_logo {
   width: 425px;
   height: 531px;
   margin-left: 55px;
-  background: no-repeat url(img/main/extension/extension.png);
+  background: no-repeat url(/img/main/extension/extension.png);
 }
 @media (max-width: 390px) {
   .extension .extension_block .extension_image {
